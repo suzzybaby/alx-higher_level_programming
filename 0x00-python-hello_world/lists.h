@@ -9,7 +9,7 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- *
+ * for Suzzy project
  */
 typedef struct listint_s
 {
